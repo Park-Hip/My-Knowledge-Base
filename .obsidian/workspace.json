@@ -11,10 +11,26 @@
             "id": "68931a7b474f5ba5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10_Projects/JobHunter.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "JobHunter"
+            }
+          },
+          {
+            "id": "51467ea4333a677d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-11 18.24.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-11 18.24.31.excalidraw"
             }
           }
         ]
@@ -74,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2c8a3311d247638a",
@@ -90,17 +107,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.base",
+                "file": "10_Projects/JobHunter.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for JobHunter"
             }
           },
           {
@@ -187,11 +204,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "68931a7b474f5ba5",
   "lastOpenFiles": [
-    "Untitled.base"
+    "Excalidraw/Drawing 2026-05-11 18.24.31.excalidraw.md",
+    "10_Projects/JobHunter.md",
+    "Excalidraw/Drawing 2026-05-11 18.13.11.excalidraw.md",
+    "2026-05-11.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "30_Resources/Prefect.md",
+    "Excalidraw"
   ]
 }
